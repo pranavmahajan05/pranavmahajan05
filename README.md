@@ -1,118 +1,142 @@
 <div align="center">
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Pranav+Mahamuni;Cloud+%26+DevOps+Enthusiast;AWS+%7C+Docker+%7C+Linux+%7C+CI%2FCD;Building+in+Public+%F0%9F%9A%80)](https://git.io/typing-svg)
+# Hey 👋 I'm Pranav Mahajan
 
-<!-- Visitor Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=Pranavm0102&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/Pranavm0102?style=for-the-badge&color=00d9ff)](https://github.com/Pranavm0102)
+### ☁️ Cloud & DevOps Enthusiast
+### AWS | Docker | Linux | CI/CD
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+Fresher;AWS+%7C+Docker+%7C+Linux+%7C+CI%2FCD;Learning+and+Building+Every+Day+%F0%9F%9A%80" />
+
+![](https://komarev.com/ghpvc/?username=pranavmahajan05&color=blue&style=for-the-badge)
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 ```yaml
-name: Pranav Mahajan
-role: Cloud & DevOps Fresher | CS Student
-location: India 🇮🇳
-focus: AWS | Docker | Linux | CI/CD | Infrastructure as Code
-currently_learning: [Kubernetes, Terraform, GitHub Actions]
-open_to: Internships, Fresher Roles, Collaborations
-fun_fact: "I automate things before I know if they're worth automating 😄"
+Name: Pranav Mahajan
+Role: Cloud & DevOps Fresher
+Location: India 🇮🇳
+
+Currently Learning:
+  - Docker
+  - Kubernetes
+  - Terraform
+  - GitHub Actions
+
+Interested In:
+  - Cloud Computing
+  - DevOps Engineering
+  - Automation
+  - Infrastructure as Code
+
+Open To:
+  - Internships
+  - Fresher Roles
+  - Collaborations
 ```
 
 ---
 
-## 🛠️ Tech Stack & Tools
+# 🛠️ Tech Stack
 
-### ☁️ Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+## ☁️ Cloud & Infrastructure
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-### 🐳 DevOps & Containers
+---
+
+## 🐳 DevOps Tools
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
-### 💻 Languages & Scripting
+---
+
+## 💻 Languages & Scripting
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pranavm0102&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavm0102&layout=compact&theme=tokyonight&langs_count=8"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pranavmahajan05&show_icons=true&theme=tokyonight&count_private=true" />
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Pranavm0102&theme=tokyonight)](https://git.io/streak-stats)
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavmahajan05&layout=compact&theme=tokyonight" />
 
 </div>
 
 ---
 
-## 🏗️ Featured Projects
+# 🔥 GitHub Streak
 
-| 🚀 Project | 📝 Description | 🛠️ Stack | ⭐ |
-|-----------|---------------|---------|-----|
-| [AWS-VPC-Peering-Architecture](https://github.com/Pranavm0102/AWS-VPC-peering-architecture) | Multi-VPC networking setup on AWS with peering config | AWS, VPC, Networking | [![Stars](https://img.shields.io/github/stars/Pranavm0102/AWS-VPC-peering-architecture?style=flat&color=gold)](https://github.com/Pranavm0102/AWS-VPC-peering-architecture) |
-| [DevOps-Bash-Scripts](https://github.com/Pranavm0102) | Automation scripts for Linux sysadmin tasks | Bash, Linux | 🔧 |
-| [Docker-Python-App](https://github.com/Pranavm0102) | Containerized Python Flask app with Docker | Docker, Python | 🐳 |
-| [CI-CD-Pipeline-Demo](https://github.com/Pranavm0102) | GitHub Actions pipeline with auto-deploy | GitHub Actions, YAML | ⚙️ |
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=pranavmahajan05&theme=tokyonight" />
+
+</div>
 
 ---
 
-## 🗺️ DevOps Learning Roadmap
+# 🚀 Featured Projects
 
+| Project | Description |
+|----------|-------------|
+| AWS VPC Peering Architecture | AWS networking project using VPC peering |
+| Docker Python App | Containerized Python application using Docker |
+| CI/CD Pipeline Demo | GitHub Actions automation pipeline |
+| Linux Bash Scripts | Useful automation scripts for Linux |
+
+---
+
+# 🗺️ DevOps Learning Journey
+
+```text
+✅ Linux Basics
+✅ Git & GitHub
+✅ AWS Fundamentals
+🔄 Docker
+🔄 CI/CD Pipelines
+⏳ Kubernetes
+⏳ Terraform
+⏳ Monitoring Tools
 ```
-✅ Linux Basics          → File system, permissions, networking
-✅ Git & GitHub          → Version control, branching, PRs
-✅ AWS Fundamentals      → EC2, VPC, S3, IAM
-🔄 Docker               → Containerization, Compose (IN PROGRESS)
-🔄 CI/CD Pipelines      → GitHub Actions (IN PROGRESS)
-⏳ Kubernetes           → Orchestration (COMING SOON)
-⏳ Terraform            → Infrastructure as Code (COMING SOON)
-⏳ Monitoring           → Prometheus, Grafana (COMING SOON)
-```
 
 ---
 
-## 📈 Contribution Activity
+# 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pranavm0102&theme=tokyo-night&hide_border=true)
-
----
-
-## 🏆 Achievements & Certifications
-
-- 🎯 **Currently Pursuing:** AWS Cloud Practitioner (CLF-C02)
-- 📚 **Completed:** AWS VPC Architecture Project
-- 🐍 **Python:** Scripting for DevOps automation
-- 🌱 **Building:** Public DevOps portfolio
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavmahajan05&theme=tokyo-night&hide_border=true" />
 
 ---
 
-## 📬 Connect With Me
+# 🏆 Achievements
+
+- 🎯 Learning AWS Cloud & DevOps
+- 🐳 Working on Docker Projects
+- ⚙️ Exploring CI/CD Automation
+- 🌱 Building Public GitHub Portfolio
+
+---
+
+# 📬 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranavm0102)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranavmahajan05)
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)
 
 </div>
@@ -121,8 +145,8 @@ fun_fact: "I automate things before I know if they're worth automating 😄"
 
 <div align="center">
 
-⭐ **If you find my projects useful, consider giving them a star!** ⭐
+### ⭐ Thanks for visiting my profile ⭐
 
-*"Every expert was once a beginner. Keep building, keep shipping."* 🚀
+"Keep Learning, Keep Building, Keep Growing 🚀"
 
 </div>
